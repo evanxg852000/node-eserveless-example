@@ -8,4 +8,4 @@ functions:
   schedule: "*/1 * * * *"
   meta:
     path: "/usr/bin"
-    name: TEST 
+    name: prod 
