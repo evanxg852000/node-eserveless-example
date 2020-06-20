@@ -1,0 +1,11 @@
+{
+    "name": "node-eserveless-example",
+    "version": "0.0.1",
+    "description": "",
+    "main": "functions.js",
+    "scripts": {
+      "start": "node functions.js"
+    },
+    "author": "Evance Soumaoro",
+    "license": "MIT"
+  }

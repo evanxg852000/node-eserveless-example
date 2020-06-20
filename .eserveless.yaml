@@ -1,5 +1,5 @@
-repo: github.com/evanxg852000/eserveless-node-example,
-rutime: node,
+repo: https://github.com/evanxg852000/node-eserveless-example
+rutime: node
 functions:
     - name: API
     type: http
