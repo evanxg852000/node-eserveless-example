@@ -1,0 +1,12 @@
+repo: github.com/evanxg852000/eserveless-node-example,
+rutime: node,
+functions:
+    - name: API
+    type: http
+    
+    - name: Ticker
+    type: cron
+    interval: 4h 
+    meta:
+        path: '/usr/bin'
+        name: 'TEST'
