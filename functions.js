@@ -10,7 +10,6 @@ function Ticker(envs) {
 }
 
 module.exports = {
-    API, 
-    UserEvent,
+    API,
     Ticker
 }
