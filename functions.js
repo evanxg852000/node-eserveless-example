@@ -8,7 +8,8 @@ function API(req, res) {
 
 //cron function
 function Ticker(envs) {
-    console.log(`Ticker ticked at ${Date.now()} ${envs}`);
+    console.log(envs); 
+    console.log(`Ticker ticked at ${Date.now()}`);
 }
 
 module.exports = {
